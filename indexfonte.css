@@ -1,0 +1,8 @@
+@font-face{
+	font-family: <nome que eu quero usar>;
+	src: url("<local da fonte>");
+}
+@font-face{
+	font-family: town-menu;
+	src: url("/home/vitor/wrk/petshop/fonts/Futura/FUTURBCI_4.TTF");
+}
